@@ -7,9 +7,9 @@ Album.create(title: "Harry's House", rating: "4", released_in: 2022, genre: "Pop
 
 Comment.create(comment: "This was a great debut album, but could have shown more of Harry's vocal strength.", album_id: 1)
 Comment.create(comment: "I'll listen to anything Harry puts out! FANTASTIC!", album_id: 1)
-Comment.create(comment: "A phenomenal sophomore work, and his best to date.", album_id: 2)
+Comment.create(comment: "A phenomenal sophomore album - by far his best to date.", album_id: 2)
 Comment.create(comment: "Emotional, powerful, and groundbreaking! Way to go, Hazza!", album_id: 2)
-Comment.create(comment: "Harry shows off his growth and new sound on this album. It's cohesive from start to finish!", album_id: 3)
+Comment.create(comment: "Harry shows off his growth and new sound on this record. It's cohesive from start to finish!", album_id: 3)
 Comment.create(comment: "Full of disco bangers and sad girl bops. A front-to-back listen for sure.", album_id: 3)
 
 Song.create(title: "Meet Me in the Hallway", album_id: 1, length: 227, likes: 0)
